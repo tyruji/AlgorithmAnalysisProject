@@ -1,0 +1,14 @@
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/bin/Debug/net8.0/AlgorithmNr3AnalysisProject
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/bin/Debug/net8.0/AlgorithmNr3AnalysisProject.deps.json
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/bin/Debug/net8.0/AlgorithmNr3AnalysisProject.runtimeconfig.json
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/bin/Debug/net8.0/AlgorithmNr3AnalysisProject.dll
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/bin/Debug/net8.0/AlgorithmNr3AnalysisProject.pdb
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.AssemblyInfoInputs.cache
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.AssemblyInfo.cs
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.csproj.CoreCompileInputs.cache
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.dll
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/refint/AlgorithmNr3AnalysisProject.dll
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.pdb
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.genruntimeconfig.cache
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/ref/AlgorithmNr3AnalysisProject.dll
