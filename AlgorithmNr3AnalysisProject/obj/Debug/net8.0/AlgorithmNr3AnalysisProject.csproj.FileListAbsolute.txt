@@ -12,3 +12,4 @@
 /home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.pdb
 /home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.genruntimeconfig.cache
 /home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/ref/AlgorithmNr3AnalysisProject.dll
+/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/Debug/net8.0/AlgorithmNr3AnalysisProject.sourcelink.json
