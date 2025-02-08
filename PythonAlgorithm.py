@@ -31,5 +31,7 @@ def disjointUnionOddCount( A, B ):
     
     return c
 
+A=[1,2,3,5,8]
+B=[0,1,3,4,8,9,10]
 
-#print( "result: ", disjointUnionOddCount( [1,2,3,5,8], [0,1,3,4,8,9,10] ) )
+print( disjointUnionOddCount( A,B ) )

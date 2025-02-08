@@ -19,7 +19,7 @@ def get_func_time( n, m, repeat ):
     time = 0
     for i in range( repeat ):
         time += plot_func( n, m )
-        
+        gi
     return time / repeat
 
 def conjectured_time_complexity( n, m ):
@@ -64,13 +64,3 @@ ax.view_init( 15, -130, 0 )
 
 plt.show()
 #disjointUnionOddCount()
-
-'''
-    Zrób tak:
-        wykres 3d jeden
-        zrob przykladowo wykresy 2d dla wybranch wartosci m, z zaleznoscia od n
-        
-        i odpowiednio zrob wykresy funkcji przewidzianej zlozonosci
-        
-        i porownaj je ze soba
-'''

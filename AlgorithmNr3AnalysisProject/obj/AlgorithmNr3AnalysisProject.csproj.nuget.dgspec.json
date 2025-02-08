@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/AlgorithmNr3AnalysisProject.csproj": {}
+    "/home/anttech/disc1/Projects/Python/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/AlgorithmNr3AnalysisProject.csproj": {}
   },
   "projects": {
-    "/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/AlgorithmNr3AnalysisProject.csproj": {
+    "/home/anttech/disc1/Projects/Python/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/AlgorithmNr3AnalysisProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/AlgorithmNr3AnalysisProject.csproj",
+        "projectUniqueName": "/home/anttech/disc1/Projects/Python/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/AlgorithmNr3AnalysisProject.csproj",
         "projectName": "AlgorithmNr3AnalysisProject",
-        "projectPath": "/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/AlgorithmNr3AnalysisProject.csproj",
+        "projectPath": "/home/anttech/disc1/Projects/Python/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/AlgorithmNr3AnalysisProject.csproj",
         "packagesPath": "/home/anttech/.nuget/packages/",
-        "outputPath": "/home/anttech/disc1/Projects/csharp/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/",
+        "outputPath": "/home/anttech/disc1/Projects/Python/AlgorithmAnalysisProject/AlgorithmNr3AnalysisProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/anttech/.nuget/NuGet/NuGet.Config"
